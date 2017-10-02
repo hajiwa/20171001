@@ -7,3 +7,4 @@ var person = {
 var dog = function(name){
 	this.name = name;
 }
+console.log("222");
